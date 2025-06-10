@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <title>Document</title>
+</head>
+<style>
+    nav.menu-principal li {
+        color: black
+    }
+
+    header#h10 li.active {
+        color: blue
+    }
+
+    #h10 li {
+        color: orange
+    }
+
+    #h10 ul li.active {
+        color: red
+    }
+
+    header#h10>nav>ul>li {
+        color: green
+    }
+</style>
+
+<body>
+    <header id="h10">
+        <nav class="menu-principal">
+            <ul class="lista">
+                <li class="item">Sobre</li>
+                <li class="item active">Alimentos</li>
+                (1) <li class="item">Dietas</li>
+                <li class="item">Blog</li>
+                <li class="item">Contato</li>
+            </ul>
+        </nav>
+    </header>
+</body>
+
+</html>

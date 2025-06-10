@@ -10,13 +10,11 @@ This repository contains exercises, mini-projects, and practical activities deve
 
 Some of the technologies and tools covered throughout the course include:
 
-- HTML, CSS, JavaScript
-- TypeScript, React
-- Node.js,
-- SQL, NoSQL
-- Git & GitHub
-- Docker & containerization
-- RESTful APIs & more
+- [01] HTML & CSS
+- [02] JavaScript
+- [03] SQL & NoSQL
+- [04] Node.js,
+...
 
 ## 📁 Structure
 
